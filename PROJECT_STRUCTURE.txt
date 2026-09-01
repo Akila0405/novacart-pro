@@ -1,0 +1,36 @@
+NOVACART PRO
+├── index.php
+├── shop.php
+├── collections.php
+├── product.php
+├── about.php
+├── contact.php
+├── cart.php
+├── checkout.php
+├── register.php
+├── login.php
+├── account.php
+├── wishlist.php
+├── order_success.php
+├── cart_api.php
+├── logout.php
+├── includes/
+│   ├── config.php
+│   ├── header.php
+│   └── footer.php
+├── assets/
+│   ├── css/style.css
+│   ├── css/admin.css
+│   ├── js/app.js
+│   └── images/*.svg
+├── admin/
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── products.php
+│   ├── product_form.php
+│   ├── orders.php
+│   ├── customers.php
+│   ├── messages.php
+│   └── logout.php
+└── database/
+    └── novacart_pro.sql
